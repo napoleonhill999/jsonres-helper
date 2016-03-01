@@ -1,5 +1,5 @@
 {
-  "name": "@unova/jsonres-helper",
+  "name": "jsonres-helper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
